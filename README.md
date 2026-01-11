@@ -51,4 +51,4 @@ The model demonstrated strong predictive power on the test set:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/CreditWise.git](https://github.com/yourusername/CreditWise.git)
+   git clone [https://github.com/yourusername/CreditWise.git](https://github.com/Nishant808/Credit_Wise.git)
